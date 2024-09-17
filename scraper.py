@@ -1,3 +1,4 @@
+#Python-based scraper extracts customer reviews from eCommerce websites and saves them in a structured format (CSV).
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
